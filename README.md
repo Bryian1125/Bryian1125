@@ -7,6 +7,6 @@
 
 <h3 align="left">Technologies:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,blender,cpp,css,git,html,java,nodejs,photoshop,py,react,ts" />
+  <img src="https://skillicons.dev/icons?i=ts,py,react,nodejs,html,css,java,cpp,blender,photoshop,arduino,git" />
 </p>
 
