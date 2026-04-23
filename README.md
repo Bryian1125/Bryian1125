@@ -1,5 +1,4 @@
-# Hi 👋, I'm Brian
-### full stack developer
+# Hi 👋, I'm Brian, a full stack developer
 
 - email: **bryian1125@proton.me**
 - portfolio **[http://brian.is-not-a.dev](http://brian.is-not-a.dev)**
